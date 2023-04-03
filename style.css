@@ -297,7 +297,7 @@ header section .cards {
     display: flex;
     align-items: center;
     overflow-x: auto;
-    /* scroll-behavior: smooth; */
+    scroll-behavior: smooth;
 }
 header section .cards::-webkit-scrollbar {
     display: none;
